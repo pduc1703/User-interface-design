@@ -1,0 +1,152 @@
+.trang-ch {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.trang-ch .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.trang-ch .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.trang-ch .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.trang-ch .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.trang-ch .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.trang-ch .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.trang-ch .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.trang-ch .image {
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.trang-ch .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.trang-ch .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.trang-ch .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.trang-ch .image-2 {
+  width: 440px;
+  height: 227px;
+  top: 150px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.trang-ch .image-3 {
+  width: 440px;
+  height: 176px;
+  top: 377px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.trang-ch .image-4 {
+  width: 208px;
+  height: 97px;
+  top: 570px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.trang-ch .image-5 {
+  width: 220px;
+  height: 97px;
+  top: 570px;
+  left: 220px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.trang-ch .image-6 {
+  width: 440px;
+  height: 160px;
+  top: 679px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
