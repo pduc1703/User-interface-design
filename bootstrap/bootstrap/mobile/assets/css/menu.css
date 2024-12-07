@@ -1,0 +1,275 @@
+.menu {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.menu .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.menu .overlap {
+  position: absolute;
+  width: 442px;
+  height: 502px;
+  top: 51px;
+  left: 0;
+}
+
+.menu .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.menu .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.menu .overlap-2 {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.menu .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.menu .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.menu .image {
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.menu .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.menu .img-2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.menu .image-2 {
+  width: 440px;
+  height: 227px;
+  top: 99px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .image-3 {
+  width: 440px;
+  height: 176px;
+  top: 326px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .danh-mc-sn-phm {
+  position: absolute;
+  width: 306px;
+  height: 460px;
+  top: 0;
+  left: 0;
+}
+
+.menu .overlap-3 {
+  position: relative;
+  width: 292px;
+  height: 460px;
+  background-color: #fafafa;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.menu .vector-2 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 12px;
+  left: 7px;
+}
+
+.menu .text-wrapper-2 {
+  position: absolute;
+  top: 11px;
+  left: 47px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .p {
+  position: absolute;
+  top: 67px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-3 {
+  position: absolute;
+  top: 329px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-4 {
+  position: absolute;
+  top: 129px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-5 {
+  position: absolute;
+  top: 394px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-6 {
+  position: absolute;
+  top: 190px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-7 {
+  position: absolute;
+  top: 255px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .image-4 {
+  width: 208px;
+  height: 97px;
+  top: 570px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .image-5 {
+  width: 220px;
+  height: 97px;
+  top: 570px;
+  left: 220px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .image-6 {
+  width: 440px;
+  height: 160px;
+  top: 679px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
