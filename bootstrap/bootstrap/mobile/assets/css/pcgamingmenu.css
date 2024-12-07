@@ -1,0 +1,496 @@
+.PC-gaming-my-tnh-chi {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PC-gaming-my-tnh-chi .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+}
+
+.PC-gaming-my-tnh-chi .overlap {
+  position: relative;
+  width: 442px;
+  height: 905px;
+  top: 51px;
+}
+
+.PC-gaming-my-tnh-chi .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.PC-gaming-my-tnh-chi .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.PC-gaming-my-tnh-chi .div {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.PC-gaming-my-tnh-chi .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.PC-gaming-my-tnh-chi .image {
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .img {
+  width: 25px;
+  top: 15px;
+  left: 404px;
+  position: absolute;
+  height: 22px;
+}
+
+.PC-gaming-my-tnh-chi .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.PC-gaming-my-tnh-chi .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.PC-gaming-my-tnh-chi .p {
+  position: absolute;
+  width: 440px;
+  top: 97px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .image-2 {
+  width: 232px;
+  height: 36px;
+  top: 146px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .group {
+  position: absolute;
+  width: 440px;
+  height: 723px;
+  top: 182px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.PC-gaming-my-tnh-chi .may-tinh {
+  top: 354px;
+  left: 223px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.PC-gaming-my-tnh-chi .overlap-group-2 {
+  position: relative;
+  width: 212px;
+  height: 317px;
+  background-color: #fcfcfc;
+}
+
+.PC-gaming-my-tnh-chi .image-3 {
+  width: 190px;
+  height: 148px;
+  top: 32px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .overlap-2 {
+  position: absolute;
+  width: 191px;
+  height: 80px;
+  top: 195px;
+  left: 8px;
+}
+
+.PC-gaming-my-tnh-chi .overlap-3 {
+  position: absolute;
+  width: 191px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.PC-gaming-my-tnh-chi .image-4 {
+  height: 53px;
+  top: 27px;
+  left: 141px;
+  position: absolute;
+  width: 50px;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .PC-HI-u-SU-t-GAMING {
+  position: absolute;
+  width: 167px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-2 {
+  width: 88px;
+  top: 53px;
+  left: 8px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .overlap-4 {
+  position: absolute;
+  width: 431px;
+  height: 317px;
+  top: 21px;
+  left: 8px;
+}
+
+.PC-gaming-my-tnh-chi .overlap-group-wrapper {
+  top: 0;
+  left: 215px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.PC-gaming-my-tnh-chi .image-5 {
+  width: 195px;
+  height: 147px;
+  top: 22px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .PC-MAX-PERFORMANCE {
+  position: absolute;
+  width: 174px;
+  top: 185px;
+  left: 11px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-3 {
+  width: 89px;
+  top: 263px;
+  left: 16px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .image-6 {
+  width: 50px;
+  height: 53px;
+  top: 236px;
+  left: 149px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .div-wrapper {
+  position: absolute;
+  width: 216px;
+  height: 317px;
+  top: 0;
+  left: 0;
+}
+
+.PC-gaming-my-tnh-chi .overlap-5 {
+  position: relative;
+  width: 212px;
+  height: 317px;
+  background-color: #ffffff;
+}
+
+.PC-gaming-my-tnh-chi .image-7 {
+  width: 190px;
+  height: 147px;
+  top: 19px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .PC-FASTER-GAMING {
+  position: absolute;
+  width: 201px;
+  top: 185px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-4 {
+  width: 86px;
+  top: 263px;
+  left: 16px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .may-tinh-2 {
+  top: 353px;
+  left: 7px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.PC-gaming-my-tnh-chi .image-8 {
+  width: 190px;
+  height: 139px;
+  top: 21px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .PC-limited-edition {
+  position: absolute;
+  width: 178px;
+  top: 175px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .image-9 {
+  height: 50px;
+  top: 223px;
+  left: 149px;
+  position: absolute;
+  width: 50px;
+  object-fit: cover;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-5 {
+  width: 88px;
+  top: 249px;
+  left: 16px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-gaming-my-tnh-chi .danh-mc-sn-phm {
+  position: absolute;
+  width: 306px;
+  height: 460px;
+  top: 0;
+  left: 0;
+}
+
+.PC-gaming-my-tnh-chi .overlap-6 {
+  position: relative;
+  width: 292px;
+  height: 460px;
+  background-color: #fafafa;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.PC-gaming-my-tnh-chi .vector-2 {
+  width: 22px;
+  top: 12px;
+  left: 7px;
+  position: absolute;
+  height: 22px;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-6 {
+  position: absolute;
+  top: 11px;
+  left: 47px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-7 {
+  position: absolute;
+  top: 67px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-8 {
+  position: absolute;
+  top: 329px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-9 {
+  position: absolute;
+  top: 129px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-10 {
+  position: absolute;
+  top: 394px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-11 {
+  position: absolute;
+  top: 190px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-gaming-my-tnh-chi .text-wrapper-12 {
+  position: absolute;
+  top: 255px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
