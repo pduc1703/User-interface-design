@@ -1,0 +1,321 @@
+.gaming-gear {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gaming-gear .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.gaming-gear .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.gaming-gear .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.gaming-gear .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.gaming-gear .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gaming-gear .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.gaming-gear .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.gaming-gear .image {
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.gaming-gear .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.gaming-gear .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.gaming-gear .overlap-2 {
+  position: absolute;
+  width: 440px;
+  height: 808px;
+  top: 148px;
+  left: 0;
+}
+
+.gaming-gear .text-wrapper-2 {
+  position: absolute;
+  width: 440px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .image-2 {
+  width: 232px;
+  height: 36px;
+  top: 49px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .group {
+  position: absolute;
+  width: 440px;
+  height: 723px;
+  top: 85px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.gaming-gear .may-tinh {
+  position: absolute;
+  width: 216px;
+  height: 317px;
+  top: 113px;
+  left: 3px;
+}
+
+.gaming-gear .overlap-3 {
+  position: relative;
+  width: 212px;
+  height: 317px;
+  background-color: #fcfcfc;
+}
+
+.gaming-gear .image-3 {
+  position: absolute;
+  width: 190px;
+  height: 147px;
+  top: 19px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.gaming-gear .p {
+  position: absolute;
+  width: 201px;
+  top: 185px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .text-wrapper-3 {
+  position: absolute;
+  width: 69px;
+  top: 263px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .image-4 {
+  width: 60px;
+  height: 63px;
+  top: 242px;
+  left: 116px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .overlap-wrapper {
+  top: 441px;
+  left: 3px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.gaming-gear .image-5 {
+  width: 190px;
+  height: 141px;
+  top: 19px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .b-n-ph-m-c-wireless {
+  position: absolute;
+  width: 154px;
+  top: 178px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .text-wrapper-4 {
+  width: 80px;
+  position: absolute;
+  top: 263px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .overlap-group-wrapper {
+  top: 442px;
+  left: 224px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.gaming-gear .image-6 {
+  width: 190px;
+  height: 141px;
+  top: 19px;
+  left: 11px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .CHU-t-CH-i-GAME {
+  position: absolute;
+  width: 167px;
+  top: 178px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .text-wrapper-5 {
+  width: 79px;
+  position: absolute;
+  top: 263px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gaming-gear .div-wrapper {
+  top: 114px;
+  left: 224px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.gaming-gear .image-7 {
+  width: 195px;
+  height: 147px;
+  top: 22px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.gaming-gear .combo-b-n-ph-m-v-chu {
+  position: absolute;
+  width: 189px;
+  top: 185px;
+  left: 11px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
