@@ -1,0 +1,237 @@
+.ng-nhp {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ng-nhp .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.ng-nhp .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.ng-nhp .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.ng-nhp .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.ng-nhp .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.ng-nhp .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.ng-nhp .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.ng-nhp .image {
+  position: absolute;
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  object-fit: cover;
+}
+
+.ng-nhp .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.ng-nhp .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.ng-nhp .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.ng-nhp .ng-nhp-ti-khon {
+  position: absolute;
+  width: 450px;
+  height: 817px;
+  top: 139px;
+  left: 0;
+}
+
+.ng-nhp .overlap-2 {
+  position: relative;
+  width: 440px;
+  height: 817px;
+  background-color: #f9f7f7;
+}
+
+.ng-nhp .text-wrapper-2 {
+  position: absolute;
+  width: 317px;
+  top: 23px;
+  left: 109px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ng-nhp .line {
+  position: absolute;
+  width: 375px;
+  height: 1px;
+  top: 75px;
+  left: 34px;
+  object-fit: cover;
+}
+
+.ng-nhp .div-wrapper {
+  position: absolute;
+  width: 382px;
+  height: 70px;
+  top: 122px;
+  left: 28px;
+  background-color: #fefafa;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.ng-nhp .text-wrapper-3 {
+  position: absolute;
+  width: 83px;
+  top: 17px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ng-nhp .overlap-3 {
+  position: absolute;
+  width: 382px;
+  height: 70px;
+  top: 255px;
+  left: 28px;
+  background-color: #fefafa;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.ng-nhp .text-wrapper-4 {
+  position: absolute;
+  width: 143px;
+  top: 17px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ng-nhp .overlap-4 {
+  position: absolute;
+  width: 200px;
+  height: 65px;
+  top: 355px;
+  left: 109px;
+  background-color: #dbf78b;
+}
+
+.ng-nhp .text-wrapper-5 {
+  position: absolute;
+  width: 150px;
+  top: 16px;
+  left: 50px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ng-nhp .kh-ch-h-ng-m-i-t-o-t {
+  position: absolute;
+  width: 339px;
+  top: 524px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ng-nhp .span {
+  color: #000000;
+}
+
+.ng-nhp .text-wrapper-6 {
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #97a340;
+}
+
