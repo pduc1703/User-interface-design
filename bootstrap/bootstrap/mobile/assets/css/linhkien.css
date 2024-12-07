@@ -1,0 +1,316 @@
+.linh-kin-my-tnh {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.linh-kin-my-tnh .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.linh-kin-my-tnh .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.linh-kin-my-tnh .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.linh-kin-my-tnh .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.linh-kin-my-tnh .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.linh-kin-my-tnh .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.linh-kin-my-tnh .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.linh-kin-my-tnh .image {
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.linh-kin-my-tnh .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.linh-kin-my-tnh .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.linh-kin-my-tnh .overlap-2 {
+  position: absolute;
+  width: 440px;
+  height: 808px;
+  top: 148px;
+  left: 0;
+}
+
+.linh-kin-my-tnh .text-wrapper-2 {
+  position: absolute;
+  width: 440px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .image-2 {
+  width: 232px;
+  height: 36px;
+  top: 49px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .group {
+  position: absolute;
+  width: 440px;
+  height: 723px;
+  top: 85px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.linh-kin-my-tnh .overlap-3 {
+  position: absolute;
+  width: 431px;
+  height: 317px;
+  top: 15px;
+  left: 7px;
+}
+
+.linh-kin-my-tnh .may-tinh {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.linh-kin-my-tnh .overlap-group-2 {
+  position: relative;
+  width: 212px;
+  height: 317px;
+  background-color: #fcfcfc;
+}
+
+.linh-kin-my-tnh .image-3 {
+  position: absolute;
+  width: 190px;
+  height: 147px;
+  top: 22px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .CPU-AMD-RYZEN {
+  position: absolute;
+  width: 164px;
+  top: 185px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .image-4 {
+  width: 60px;
+  height: 63px;
+  top: 242px;
+  left: 116px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .text-wrapper-3 {
+  position: absolute;
+  width: 83px;
+  top: 263px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .overlap-wrapper {
+  top: 0;
+  left: 215px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.linh-kin-my-tnh .image-5 {
+  width: 190px;
+  height: 148px;
+  top: 22px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .text-wrapper-4 {
+  position: absolute;
+  width: 91px;
+  top: 263px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .mainboard-MSI-MEG {
+  position: absolute;
+  width: 144px;
+  top: 185px;
+  left: 9px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .overlap-group-wrapper {
+  top: 344px;
+  left: 5px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.linh-kin-my-tnh .image-6 {
+  width: 195px;
+  height: 147px;
+  top: 22px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .CPU-AMD-ryzen {
+  position: absolute;
+  width: 180px;
+  top: 185px;
+  left: 11px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.linh-kin-my-tnh .div-wrapper {
+  top: 344px;
+  left: 223px;
+  position: absolute;
+  width: 216px;
+  height: 317px;
+}
+
+.linh-kin-my-tnh .image-7 {
+  width: 190px;
+  height: 145px;
+  top: 12px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.linh-kin-my-tnh .t-n-nhi-t-kh-CPU {
+  position: absolute;
+  width: 164px;
+  top: 170px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
