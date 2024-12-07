@@ -1,0 +1,736 @@
+.PC-WORKSTATION {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PC-WORKSTATION .PC-WORKSTATION-d-d {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 836px;
+  position: relative;
+}
+
+.PC-WORKSTATION .overlap {
+  position: absolute;
+  width: 1280px;
+  height: 715px;
+  top: 121px;
+  left: 0;
+}
+
+.PC-WORKSTATION .overlap-group {
+  position: absolute;
+  width: 1280px;
+  height: 715px;
+  top: 0;
+  left: 0;
+}
+
+.PC-WORKSTATION .u-i {
+  position: absolute;
+  width: 1280px;
+  height: 630px;
+  top: 85px;
+  left: 0;
+}
+
+.PC-WORKSTATION .danh-mc-sn-phm {
+  position: absolute;
+  width: 306px;
+  height: 460px;
+  top: 0;
+  left: 8px;
+}
+
+.PC-WORKSTATION .div {
+  position: relative;
+  width: 292px;
+  height: 460px;
+  background-color: #fafafa;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.PC-WORKSTATION .vector {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 12px;
+  left: 7px;
+}
+
+.PC-WORKSTATION .text-wrapper {
+  position: absolute;
+  top: 11px;
+  left: 47px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .p {
+  position: absolute;
+  top: 67px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-2 {
+  position: absolute;
+  top: 329px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-3 {
+  position: absolute;
+  top: 129px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-4 {
+  position: absolute;
+  top: 394px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-5 {
+  position: absolute;
+  top: 190px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-6 {
+  position: absolute;
+  top: 255px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .img {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 23px;
+  left: 307px;
+}
+
+.PC-WORKSTATION .nh-cung-cp {
+  position: absolute;
+  width: 298px;
+  height: 100px;
+  top: 478px;
+  left: 8px;
+}
+
+.PC-WORKSTATION .overlap-2 {
+  position: relative;
+  width: 292px;
+  height: 100px;
+  background-color: #fafafa;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.PC-WORKSTATION .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 10px;
+  top: 22px;
+  left: 187px;
+}
+
+.PC-WORKSTATION .text-wrapper-7 {
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-8 {
+  position: absolute;
+  top: 41px;
+  left: 49px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .text-wrapper-9 {
+  position: absolute;
+  top: 72px;
+  left: 49px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .group {
+  position: absolute;
+  width: 298px;
+  height: 100px;
+  top: 596px;
+  left: 8px;
+}
+
+.PC-WORKSTATION .vector-3 {
+  position: absolute;
+  width: 16px;
+  height: 10px;
+  top: 20px;
+  left: 116px;
+}
+
+.PC-WORKSTATION .rectangle {
+  top: 40px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 23px;
+  background-color: #d9d9d9;
+}
+
+.PC-WORKSTATION .rectangle-2 {
+  top: 74px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 23px;
+  background-color: #d9d9d9;
+}
+
+.PC-WORKSTATION .text-wrapper-10 {
+  position: absolute;
+  top: 71px;
+  left: 49px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PC-WORKSTATION .rectangle-3 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 521px;
+  left: 23px;
+  background-color: #d9d9d9;
+}
+
+.PC-WORKSTATION .rectangle-4 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 552px;
+  left: 23px;
+  background-color: #d9d9d9;
+}
+
+.PC-WORKSTATION .text-wrapper-11 {
+  position: absolute;
+  width: 462px;
+  top: 95px;
+  left: 309px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .may-tinh {
+  position: absolute;
+  width: 189px;
+  height: 216px;
+  top: 157px;
+  left: 326px;
+}
+
+.PC-WORKSTATION .overlap-3 {
+  position: relative;
+  width: 185px;
+  height: 216px;
+  background-color: #fcfcfc;
+}
+
+.PC-WORKSTATION .image {
+  position: absolute;
+  width: 166px;
+  height: 100px;
+  top: 13px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .text-wrapper-12 {
+  position: absolute;
+  width: 175px;
+  top: 126px;
+  left: 9px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .text-wrapper-13 {
+  position: absolute;
+  top: 179px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .image-2 {
+  width: 52px;
+  height: 43px;
+  top: 165px;
+  left: 101px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .overlap-wrapper {
+  top: 435px;
+  left: 326px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-3 {
+  width: 166px;
+  height: 96px;
+  top: 13px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-h-a-hi-u-su-t-cao {
+  position: absolute;
+  top: 121px;
+  left: 9px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .overlap-group-wrapper {
+  top: 435px;
+  left: 565px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-4 {
+  width: 166px;
+  height: 96px;
+  top: 13px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .div-wrapper {
+  top: 440px;
+  left: 819px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-5 {
+  width: 166px;
+  height: 96px;
+  top: 8px;
+  left: 8px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-h-a-hi-u-su-t-cao-2 {
+  top: 116px;
+  left: 11px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .may-tinh-2 {
+  top: 440px;
+  left: 1069px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-6 {
+  width: 166px;
+  height: 99px;
+  top: 8px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-workstation {
+  position: absolute;
+  top: 116px;
+  left: 9px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .may-tinh-3 {
+  top: 157px;
+  left: 565px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-7 {
+  width: 170px;
+  height: 100px;
+  top: 15px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-h-a {
+  position: absolute;
+  top: 126px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .may-tinh-4 {
+  top: 157px;
+  left: 819px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-8 {
+  width: 166px;
+  height: 100px;
+  top: 15px;
+  left: 8px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-h-a-d-d-i {
+  position: absolute;
+  top: 126px;
+  left: 9px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .may-tinh-5 {
+  top: 157px;
+  left: 1069px;
+  position: absolute;
+  width: 189px;
+  height: 216px;
+}
+
+.PC-WORKSTATION .image-9 {
+  width: 166px;
+  height: 101px;
+  top: 15px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .PC-h-a-hi-u-su-t-cao-3 {
+  top: 126px;
+  left: 8px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .text-wrapper-14 {
+  position: absolute;
+  width: 146px;
+  top: 24px;
+  left: 345px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .icon-xe {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 14px;
+  left: 523px;
+}
+
+.PC-WORKSTATION .text-wrapper-15 {
+  position: absolute;
+  width: 196px;
+  top: 24px;
+  left: 575px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .vector-4 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 19px;
+  left: 771px;
+}
+
+.PC-WORKSTATION .text-wrapper-16 {
+  position: absolute;
+  width: 113px;
+  top: 24px;
+  left: 812px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .group-2 {
+  position: absolute;
+  width: 1286px;
+  height: 121px;
+  top: 0;
+  left: 0;
+}
+
+.PC-WORKSTATION .overlap-4 {
+  position: relative;
+  width: 1280px;
+  height: 121px;
+  background-color: #d9d9d9;
+}
+
+.PC-WORKSTATION .overlap-5 {
+  position: absolute;
+  width: 115px;
+  height: 29px;
+  top: 58px;
+  left: 1047px;
+}
+
+.PC-WORKSTATION .vector-5 {
+  position: absolute;
+  width: 16px;
+  height: 10px;
+  top: 18px;
+  left: 99px;
+}
+
+.PC-WORKSTATION .overlap-6 {
+  position: absolute;
+  width: 112px;
+  height: 29px;
+  top: 0;
+  left: 0;
+}
+
+.PC-WORKSTATION .text-wrapper-17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .text-wrapper-18 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PC-WORKSTATION .vector-6 {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 62px;
+  left: 1193px;
+}
+
+.PC-WORKSTATION .vector-7 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 53px;
+  left: 1006px;
+}
+
+.PC-WORKSTATION .image-10 {
+  position: absolute;
+  width: 160px;
+  height: 91px;
+  top: 13px;
+  left: 43px;
+  object-fit: cover;
+}
+
+.PC-WORKSTATION .overlap-group-2 {
+  position: absolute;
+  width: 696px;
+  height: 45px;
+  top: 58px;
+  left: 251px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.PC-WORKSTATION .nt-tm-kim {
+  position: absolute;
+  width: 71px;
+  height: 45px;
+  top: 0;
+  left: 625px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.PC-WORKSTATION .vector-8 {
+  position: absolute;
+  width: 25px;
+  height: 30px;
+  top: 7px;
+  left: 23px;
+}
+
+.PC-WORKSTATION .text-wrapper-19 {
+  position: absolute;
+  top: 14px;
+  left: 31px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+

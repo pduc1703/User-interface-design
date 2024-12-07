@@ -1,0 +1,480 @@
+.dang-ky {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dang-ky .div {
+  background-color: #ffffff;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+}
+
+.dang-ky .overlap {
+  position: absolute;
+  width: 1280px;
+  height: 121px;
+  top: 0;
+  left: 0;
+}
+
+.dang-ky .group {
+  position: absolute;
+  width: 1280px;
+  height: 121px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.dang-ky .vector {
+  position: absolute;
+  width: 16px;
+  height: 10px;
+  top: 76px;
+  left: 1146px;
+}
+
+.dang-ky .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 62px;
+  left: 1193px;
+}
+
+.dang-ky .vector-2 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 53px;
+  left: 1006px;
+}
+
+.dang-ky .image {
+  position: absolute;
+  width: 160px;
+  height: 91px;
+  top: 13px;
+  left: 43px;
+  object-fit: cover;
+}
+
+.dang-ky .rectangle {
+  position: absolute;
+  width: 696px;
+  height: 45px;
+  top: 58px;
+  left: 251px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.dang-ky .text-wrapper {
+  position: absolute;
+  top: 71px;
+  left: 282px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .nt-tm-kim {
+  position: absolute;
+  width: 71px;
+  height: 45px;
+  top: 58px;
+  left: 876px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.dang-ky .vector-3 {
+  position: absolute;
+  width: 25px;
+  height: 30px;
+  top: 7px;
+  left: 23px;
+}
+
+.dang-ky .text-wrapper-2 {
+  position: absolute;
+  top: 57px;
+  left: 1047px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .text-wrapper-3 {
+  position: absolute;
+  top: 71px;
+  left: 1047px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .overlap-group {
+  position: absolute;
+  width: 1280px;
+  height: 711px;
+  top: 121px;
+  left: 0;
+}
+
+.dang-ky .overlap-2 {
+  position: absolute;
+  width: 1280px;
+  height: 711px;
+  top: 0;
+  left: 0;
+}
+
+.dang-ky .rectangle-2 {
+  position: absolute;
+  width: 1280px;
+  height: 654px;
+  top: 57px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.dang-ky .danh-mc-sn-phm {
+  position: absolute;
+  width: 294px;
+  height: 82px;
+  top: 0;
+  left: 0;
+}
+
+.dang-ky .overlap-group-2 {
+  position: relative;
+  width: 292px;
+  height: 82px;
+  background-color: #fafafa;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.dang-ky .vector-4 {
+  position: absolute;
+  width: 22px;
+  height: 19px;
+  top: 11px;
+  left: 14px;
+}
+
+.dang-ky .text-wrapper-4 {
+  position: absolute;
+  width: 222px;
+  top: 12px;
+  left: 60px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .overlap-wrapper {
+  position: absolute;
+  width: 704px;
+  height: 632px;
+  top: 68px;
+  left: 292px;
+}
+
+.dang-ky .b-n-c-t-i-kho-n-ng-wrapper {
+  position: relative;
+  width: 702px;
+  height: 632px;
+  background-color: #ffffff;
+}
+
+.dang-ky .b-n-c-t-i-kho-n-ng {
+  position: absolute;
+  top: 567px;
+  left: 243px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .span {
+  color: #000000;
+}
+
+.dang-ky .text-wrapper-5 {
+  color: #3751af;
+}
+
+.dang-ky .text-wrapper-6 {
+  position: absolute;
+  width: 130px;
+  top: 75px;
+  left: 575px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .rectangle-3 {
+  position: absolute;
+  width: 581px;
+  height: 69px;
+  top: 118px;
+  left: 354px;
+  background-color: #cccccc;
+}
+
+.dang-ky .rectangle-4 {
+  position: absolute;
+  width: 581px;
+  height: 66px;
+  top: 210px;
+  left: 354px;
+  background-color: #cccccc;
+}
+
+.dang-ky .rectangle-5 {
+  position: absolute;
+  width: 581px;
+  height: 61px;
+  top: 347px;
+  left: 354px;
+  background-color: #cccccc;
+}
+
+.dang-ky .rectangle-6 {
+  position: absolute;
+  width: 581px;
+  height: 63px;
+  top: 441px;
+  left: 354px;
+  background-color: #cccccc;
+}
+
+.dang-ky .rectangle-7 {
+  position: absolute;
+  width: 581px;
+  height: 63px;
+  top: 533px;
+  left: 354px;
+  background-color: #cccccc;
+}
+
+.dang-ky .ellipse {
+  left: 386px;
+  position: absolute;
+  width: 19px;
+  height: 20px;
+  top: 297px;
+}
+
+.dang-ky .ellipse-2 {
+  left: 535px;
+  position: absolute;
+  width: 19px;
+  height: 20px;
+  top: 297px;
+}
+
+.dang-ky .text-wrapper-7 {
+  position: absolute;
+  width: 48px;
+  top: 295px;
+  left: 419px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .text-wrapper-8 {
+  position: absolute;
+  width: 48px;
+  top: 295px;
+  left: 569px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .rectangle-8 {
+  position: absolute;
+  width: 156px;
+  height: 50px;
+  top: 625px;
+  left: 354px;
+  background-color: #ece423;
+}
+
+.dang-ky .text-wrapper-9 {
+  position: absolute;
+  top: 634px;
+  left: 386px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #fafafa;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .text-wrapper-10 {
+  position: absolute;
+  top: 139px;
+  left: 372px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .text-wrapper-11 {
+  position: absolute;
+  top: 230px;
+  left: 372px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .text-wrapper-12 {
+  position: absolute;
+  top: 366px;
+  left: 372px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .text-wrapper-13 {
+  position: absolute;
+  top: 463px;
+  left: 372px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .text-wrapper-14 {
+  position: absolute;
+  top: 552px;
+  left: 372px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dang-ky .icon-xe {
+  position: absolute;
+  width: 44px;
+  height: 36px;
+  top: 13px;
+  left: 523px;
+}
+
+.dang-ky .text-wrapper-15 {
+  position: absolute;
+  width: 196px;
+  top: 24px;
+  left: 575px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .text-wrapper-16 {
+  position: absolute;
+  width: 113px;
+  top: 24px;
+  left: 812px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .text-wrapper-17 {
+  position: absolute;
+  width: 146px;
+  top: 24px;
+  left: 345px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dang-ky .vector-5 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 22px;
+  left: 307px;
+}
+
+.dang-ky .vector-6 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 18px;
+  left: 771px;
+}
+
