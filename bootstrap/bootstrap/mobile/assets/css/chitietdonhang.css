@@ -1,0 +1,206 @@
+.chi-tit-n-hng {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.chi-tit-n-hng .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.chi-tit-n-hng .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.chi-tit-n-hng .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.chi-tit-n-hng .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.chi-tit-n-hng .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chi-tit-n-hng .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.chi-tit-n-hng .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.chi-tit-n-hng .image {
+  position: absolute;
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  object-fit: cover;
+}
+
+.chi-tit-n-hng .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.chi-tit-n-hng .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.chi-tit-n-hng .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.chi-tit-n-hng .overlap-2 {
+  position: absolute;
+  width: 433px;
+  height: 736px;
+  top: 147px;
+  left: 0;
+}
+
+.chi-tit-n-hng .group {
+  position: absolute;
+  width: 428px;
+  height: 694px;
+  top: 42px;
+  left: 5px;
+}
+
+.chi-tit-n-hng .overlap-3 {
+  position: relative;
+  width: 424px;
+  height: 694px;
+  background-color: #f8f8f8;
+}
+
+.chi-tit-n-hng .text-wrapper-2 {
+  position: absolute;
+  width: 196px;
+  height: 18px;
+  top: 333px;
+  left: 4px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.chi-tit-n-hng .overlap-group-2 {
+  position: absolute;
+  width: 424px;
+  height: 69px;
+  top: 614px;
+  left: 0;
+}
+
+.chi-tit-n-hng .rectangle {
+  position: absolute;
+  width: 424px;
+  height: 69px;
+  top: 0;
+  left: 0;
+  background-color: #ef3c3c;
+  border: 1px solid;
+  border-color: #fff7f7;
+}
+
+.chi-tit-n-hng .th-m-v-o-gi {
+  position: absolute;
+  width: 196px;
+  height: 18px;
+  top: 26px;
+  left: 114px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chi-tit-n-hng .image-2 {
+  position: absolute;
+  width: 415px;
+  height: 314px;
+  top: 0;
+  left: 9px;
+}
+
+.chi-tit-n-hng .image-3 {
+  position: absolute;
+  width: 328px;
+  height: 238px;
+  top: 407px;
+  left: 53px;
+}
+
+.chi-tit-n-hng .image-4 {
+  position: absolute;
+  width: 337px;
+  height: 44px;
+  top: 322px;
+  left: 0;
+}
+
