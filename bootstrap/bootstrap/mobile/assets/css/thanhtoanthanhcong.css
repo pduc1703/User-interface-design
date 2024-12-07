@@ -1,0 +1,263 @@
+.gi-hng {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gi-hng .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.gi-hng .header {
+  position: absolute;
+  width: 442px;
+  height: 88px;
+  top: 51px;
+  left: 0;
+  background-color: transparent;
+}
+
+.gi-hng .overlap-group {
+  position: relative;
+  width: 440px;
+  height: 88px;
+  background-color: #d9d9d9;
+}
+
+.gi-hng .overlap {
+  position: absolute;
+  width: 430px;
+  height: 22px;
+  top: 60px;
+  left: 10px;
+  background-color: #fffbfb;
+  border-radius: 10px;
+}
+
+.gi-hng .text-wrapper {
+  position: absolute;
+  width: 130px;
+  top: 3px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #6b6868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gi-hng .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 0;
+  left: 400px;
+  background-color: #ece423;
+  border-radius: 10px;
+}
+
+.gi-hng .vector {
+  position: absolute;
+  width: 13px;
+  height: 14px;
+  top: 3px;
+  left: 6px;
+}
+
+.gi-hng .image {
+  position: absolute;
+  width: 43px;
+  height: 40px;
+  top: 4px;
+  left: 42px;
+  object-fit: cover;
+}
+
+.gi-hng .img {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 15px;
+  left: 404px;
+}
+
+.gi-hng .login {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 13px;
+  left: 374px;
+}
+
+.gi-hng .menu {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 13px;
+  left: 7px;
+}
+
+.gi-hng .p {
+  position: absolute;
+  width: 129px;
+  top: 152px;
+  left: 5px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gi-hng .group {
+  position: absolute;
+  width: 426px;
+  height: 45px;
+  top: 216px;
+  left: 5px;
+}
+
+.gi-hng .div-wrapper {
+  position: relative;
+  width: 424px;
+  height: 45px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.gi-hng .text-wrapper-2 {
+  position: absolute;
+  width: 334px;
+  top: -1px;
+  left: 5px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gi-hng .overlap-2 {
+  position: absolute;
+  width: 437px;
+  height: 622px;
+  top: 261px;
+  left: 0;
+}
+
+.gi-hng .overlap-wrapper {
+  position: absolute;
+  width: 432px;
+  height: 622px;
+  top: 0;
+  left: 5px;
+}
+
+.gi-hng .overlap-3 {
+  position: relative;
+  width: 424px;
+  height: 622px;
+  background-color: #f8f8f8;
+}
+
+.gi-hng .text-wrapper-3 {
+  position: absolute;
+  width: 342px;
+  top: 27px;
+  left: 5px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gi-hng .overlap-4 {
+  position: absolute;
+  width: 424px;
+  height: 69px;
+  top: 242px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.gi-hng .text-wrapper-4 {
+  position: absolute;
+  width: 342px;
+  top: 26px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gi-hng .overlap-5 {
+  position: absolute;
+  width: 424px;
+  height: 69px;
+  top: 326px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.gi-hng .text-wrapper-5 {
+  position: absolute;
+  width: 342px;
+  top: 25px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gi-hng .overlap-group-2 {
+  position: absolute;
+  width: 424px;
+  height: 69px;
+  top: 410px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.gi-hng .image-2 {
+  position: absolute;
+  width: 424px;
+  height: 134px;
+  top: 83px;
+  left: 5px;
+}
+
+.gi-hng .group-2 {
+  position: absolute;
+  width: 434px;
+  height: 295px;
+  top: 53px;
+  left: 0;
+}
+
